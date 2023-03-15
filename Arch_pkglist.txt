@@ -1,0 +1,14 @@
+make
+neovim
+brave-browser
+patch
+git
+spotify
+discord
+slack-desktop
+jetbrains-toolbox
+mattermost
+bitwarden
+fcitx-im
+fcitx-mozc
+gitkraken
